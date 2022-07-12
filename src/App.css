@@ -1,0 +1,30 @@
+div{
+  height: 100vh;
+ display:flex;
+ justify-content: center;
+ align-items: center;
+}
+.c1{
+  height:500px;
+  width:300px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+   flex-direction: column;
+   border: 1px solid black;
+   border-radius: 30px;
+}
+button{
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  border-radius: 20px;
+  color:wheat
+}
+label{
+  margin: 30px;
+}
+input{
+  border-top: none;
+  border-right: none;
+}
